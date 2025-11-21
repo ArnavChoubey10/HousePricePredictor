@@ -1,4 +1,4 @@
-# House Price Predictor (Mini Project)
+# House Price Predictor 
 
 This is a very small Machine Learning project using Linear Regression.
 It predicts house prices based on:
@@ -29,4 +29,5 @@ HousePricePredictor.py/
 
 ## Dataset
 Tiny dataset of 7 rows for fast training (educational).
+
 
